@@ -1,4 +1,5 @@
 # Ruby on Rails Tutorial sample application
+https://polar-dusk-40816.herokuapp.com/
 
 This is the sample application for
 [*Ruby on Rails Tutorial:
